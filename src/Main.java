@@ -95,10 +95,10 @@ public class Main {
 
         System.out.println(num + " is " + result);
     }
-    static void checkCondition(int a, int b, int c) {
-
-        boolean result = (a + b > c) && (b != 0);
-
-        System.out.println("Result: " + result);
-    }
+//    static void checkCondition(int a, int b, int c) {
+//
+//        boolean result = (a + b > c) && (b != 0);
+//
+//        System.out.println("Result: " + result);
+//    }
 }
